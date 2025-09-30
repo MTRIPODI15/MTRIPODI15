@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.png"/>
+</p>
+
 <h1 align="center">Hi, I'm Matías Tripodi 👨‍💻</h1>
 <p align="center">
   <strong>QA Automation Engineer | Python & Java | Strategic Thinker | Bilingual Communicator</strong><br>
