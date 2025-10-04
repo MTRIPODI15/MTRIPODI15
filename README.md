@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Matías Tripodi 👨‍💻</h1>
 <p align="center">
-  <strong>QA Automation Engineer | Python & Java | Strategic Thinker | Bilingual Communicator</strong><br>
+  <strong>QA Engineer | Python & Java | Strategic Thinker | Bilingual Communicator</strong><br>
   <a href="https://www.linkedin.com/in/matias-tripodi-139925a0/">🔗 LinkedIn</a> |
   <a href="https://github.com/matitripodi">🐙 GitHub</a>
 </p>
