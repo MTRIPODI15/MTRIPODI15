@@ -13,7 +13,7 @@
 
 <h2>🧠 About Me</h2>
 <p>
-I'm a pragmatic and strategic QA Automation Engineer based in Argentina, passionate about building modular, real-world testing labs. I specialize in UI and API automation using <strong>Python (Pytest, Playwright, Selenium)</strong> and <strong>Java (JUnit, Rest Assured)</strong>, with a strong focus on documentation, CI integration, and professional polish.
+I'm a pragmatic and strategic QA Engineer based in Argentina, passionate about building modular, real-world testing labs. I specialize in UI and API automation using <strong>Python (Pytest, Playwright, Selenium)</strong> and <strong>Java (JUnit, Rest Assured)</strong>, with a strong focus on documentation, CI integration, and professional polish.
 </p>
 <p>
 I thrive on systems thinking, bilingual communication, and continuous improvement—both technically and linguistically. Whether it's refining a test suite, curating a cheat sheet, or optimizing workflows, I approach every challenge with curiosity, persistence, and care.
