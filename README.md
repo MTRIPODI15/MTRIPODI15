@@ -2,11 +2,11 @@
   <img src="image.png"/ width="400">
 </p>
 
-<h1 align="center">Hi, I'm Matías Tripodi 👨‍💻</h1>
+<h1 align="center">Hi, I'm Matías Tripodi</h1>
 <p align="center">
-  <strong>QA Engineer | Python & Java | Strategic Thinker | Bilingual Communicator</strong><br>
+  <strong>QA Engineer Strategic Thinker | Bilingual Communicator</strong><br>
   <a href="https://www.linkedin.com/in/matias-tripodi-139925a0/">🔗 LinkedIn</a> |
-  <a href="https://github.com/matitripodi">🐙 GitHub</a>
+  <a href="https://github.com/matitripodi"> GitHub</a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ I thrive on systems thinking, bilingual communication, and continuous improvemen
   <li>✅ API Testing: Rest Assured, Postman</li>
   <li>✅ Frameworks: Pytest, JUnit, Gradle, Maven</li>
   <li>✅ CI/CD: GitHub Actions, modular documentation</li>
-  <li>✅ Issue Tracking: Jira, Trello, GitHub Projects</li>
+  <li>✅ Issue Tracking: Jira, GitHub Projects</li>
   <li>✅ Troubleshooting: Windows systems, PowerShell, services</li>
   <li>✅ Communication: Fluent in Spanish and English</li>
 </ul>
