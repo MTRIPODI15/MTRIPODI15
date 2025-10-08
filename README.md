@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png"/>
+  <img src="image.png"/ width="400">
 </p>
 
 <h1 align="center">Hi, I'm Matías Tripodi 👨‍💻</h1>
