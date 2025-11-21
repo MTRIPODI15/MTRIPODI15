@@ -2,60 +2,41 @@
   <img src="image.png"/ width="400">
 </p>
 
-<h1 align="center">Hi, I'm Matías Tripodi</h1>
-<p align="center">
-  <strong>QA Engineer Strategic Thinker | Bilingual Communicator</strong><br>
-  <a href="https://www.linkedin.com/in/matias-tripodi-139925a0/">🔗 LinkedIn</a> |
-  <a href="https://github.com/matitripodi"> GitHub</a>
-</p>
+# ¡Hola! Soy Matías Tripodi 👋
 
----
+Soy un Ingeniero de Calidad de Software (QA) con casi una década de experiencia en el ciclo de vida del desarrollo de software, especializándome en automatización de pruebas y prácticas de CI/CD. Mi trayectoria es un viaje desde las bases de la ingeniería (desarrollo backend en C, optimización de algoritmos) hasta la gestión de operaciones críticas en el sector financiero, lo que me ha proporcionado una perspectiva integral y una profunda apreciación por la estabilidad, la eficiencia y el cumplimiento normativo.
 
-<h2>🧠 About Me</h2>
-<p>
-I'm a pragmatic and strategic QA Engineer based in Argentina, passionate about building modular, real-world testing labs. I specialize in UI and API automation using <strong>Python (Pytest, Playwright, Selenium)</strong> and <strong>Java (JUnit, Rest Assured)</strong>, with a strong focus on documentation, CI integration, and professional polish.
-</p>
-<p>
-I thrive on systems thinking, bilingual communication, and continuous improvement—both technically and linguistically. Whether it's refining a test suite, curating a cheat sheet, or optimizing workflows, I approach every challenge with curiosity, persistence, and care.
-</p>
+**Mi enfoque:** Construir puentes entre el código, las operaciones y la calidad.
 
----
+## ✨ ¿Qué aporto a un equipo?
 
-<h2>🧰 Technical Skills</h2>
-<ul>
-  <li>✅ UI Automation: Playwright, Selenium</li>
-  <li>✅ API Testing: Rest Assured, Postman</li>
-  <li>✅ Frameworks: Pytest, JUnit, Gradle, Maven</li>
-  <li>✅ CI/CD: GitHub Actions, modular documentation</li>
-  <li>✅ Issue Tracking: Jira, GitHub Projects</li>
-  <li>✅ Troubleshooting: Windows systems, PowerShell, services</li>
-  <li>✅ Communication: Fluent in Spanish and English</li>
-</ul>
+* **Visión 360°:** Mi experiencia en backend, operaciones y QA me permite entender los sistemas de punta a punta, anticipando problemas y diseñando soluciones que funcionan en el mundo real.
+* **Automatización Estratégica:** Transformo procesos de prueba manuales en flujos automatizados robustos (Python, Playwright) que aceleran la entrega sin comprometer la calidad, especialmente en entornos regulados.
+* **Cultura de CI/CD:** Contribuyo activamente a la implementación y mejora de pipelines (GitHub Actions, Jenkins) para despliegues seguros y eficientes, garantizando la continuidad del negocio.
+* **Liderazgo de Conocimiento:** Reconocido por recuperar y documentar *know-how* complejo y por capacitar a equipos, asegurando la transferencia de conocimiento y la resiliencia operativa.
+* **Adaptabilidad y Resiliencia:** Rápida adaptación a nuevas tecnologías y frameworks, con experiencia probada en gestionar situaciones de alta presión en producción ("cuando todo arde").
 
----
+## 🛠️ Mi Stack Tecnológico
 
-<h2>🏦 Domain Expertise</h2>
-<ul>
-  <li>💳 3+ years of manual QA experience in critical banking systems</li>
-  <li>🔐 Familiar with secure transaction flows, authentication, and error handling</li>
-  <li>📈 Understands the importance of precision, auditability, and compliance in financial products</li>
-</ul>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD36?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## 📁 Explora mis Repositorios
 
-<h2>🎯 Current Goals</h2>
-<ul>
-  <li>📌 Expand API test coverage with Rest Assured</li>
-  <li>📌 Publish fixed-price QA service packages for freelance platforms</li>
-  <li>📌 Refine and share professional cheat sheets for QA workflows</li>
-  <li>📌 Integrate technical English practice into daily routines</li>
-</ul>
+Aquí encontrarás una muestra de mi trabajo y conocimientos.
 
----
+## 🤝 Conectemos
 
-<h2>🤝 Let's Connect</h2>
-<p>
-I'm open to collaboration on testing, documentation, and automation projects. If you're looking for a strategic QA partner or want to explore how I can help improve your software quality, feel free to reach out via <a href="https://www.linkedin.com/in/matias-tripodi-139925a0/">LinkedIn</a> or check out my public repositories.
-</p>
+Si te interesa mi perfil o tienes alguna pregunta, no dudes en contactarme:
 
-<p align="center"><em>Thanks for stopping by!</em></p>
+* [LinkedIn](https://www.linkedin.com/in/matias-tripodi-139925a0/)
