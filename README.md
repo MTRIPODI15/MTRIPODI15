@@ -30,6 +30,12 @@ Soy un Ingeniero de Calidad de Software (QA) con casi una década de experiencia
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JMeter](URL del badge) 
+![TestRail](URL del badge) 
+![Swagger](URL del badge) 
+![Microservicios](URL del badge) 
+
+**Conceptos Adicionales:** BDD/Gherkin, API Testing (Postman/Newman), Bases de Datos (SQL), Bash Scripting.
 
 ## 📁 Explora mis Repositorios
 
