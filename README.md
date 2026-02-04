@@ -4,7 +4,7 @@
 
 # ¡Hola! Soy Matías Tripodi 👋
 
-Soy un Ingeniero de Calidad de Software (QA) con casi una década de experiencia en el ciclo de vida del desarrollo de software, especializándome en automatización de pruebas y prácticas de CI/CD. Mi trayectoria es un viaje desde las bases de la ingeniería (desarrollo backend en C, optimización de algoritmos) hasta la gestión de operaciones críticas en el sector financiero, lo que me ha proporcionado una perspectiva integral y una profunda apreciación por la estabilidad, la eficiencia y el cumplimiento normativo.
+Trabajo como QA Engineer con casi una década de experiencia en SDLC, SR. QA Manual, SSR. QA Automation con conocimientos en CI/CD. Durante mi carrera en este mundo recorri varios roles (Analista Funcional, Developer, QA) por lo general en negocios criticos donde los estandares de calidad deben ser altos ya sea por normativas como riesgo de perdida financiera a gran escala o daño de imagen.
 
 **Mi enfoque:** Construir puentes entre el código, las operaciones y la calidad.
 
