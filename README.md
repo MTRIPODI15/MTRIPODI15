@@ -4,14 +4,14 @@
 
 # ¡Hola! Soy Matías Tripodi 👋
 
-Trabajo como QA Engineer con casi una década de experiencia en SDLC, SR. QA Manual, SSR. QA Automation con conocimientos en CI/CD. Durante mi carrera en este mundo recorri varios roles (Analista Funcional, Developer, QA) por lo general en negocios criticos donde los estandares de calidad deben ser altos ya sea por normativas como riesgo de perdida financiera a gran escala o daño de imagen.
+Trabajo como SDET | QA Engineer con casi una década de experiencia en SDLC, SR. QA Manual, SSR. QA Automation con conocimientos en CI/CD. Durante mi carrera en este mundo recorri varios roles (Analista Funcional, Developer, QA) por lo general en negocios criticos donde los estandares de calidad deben ser altos ya sea por normativas como riesgo de perdida financiera a gran escala o daño de imagen.
 
 **Mi enfoque:** Construir puentes entre el código, las operaciones y la calidad.
 
 ## ✨ ¿Qué aporto a un equipo?
 
 * **Visión 360°:** Mi experiencia en backend, operaciones y QA me permite entender los sistemas de punta a punta, anticipando problemas y diseñando soluciones que funcionan en el mundo real.
-* **Automatización Estratégica:** Transformo procesos de prueba manuales en flujos automatizados robustos (Python, Playwright) que aceleran la entrega sin comprometer la calidad, especialmente en entornos regulados.
+* **Automatización Estratégica:** Transformo procesos de prueba manuales en flujos automatizados robustos (Python, Playwright, TypeScript) que aceleran la entrega sin comprometer la calidad, especialmente en entornos regulados.
 * **Cultura de CI/CD:** Contribuyo activamente a la implementación y mejora de pipelines (GitHub Actions, Jenkins) para despliegues seguros y eficientes, garantizando la continuidad del negocio.
 * **Liderazgo de Conocimiento:** Reconocido por recuperar y documentar *know-how* complejo y por capacitar a equipos, asegurando la transferencia de conocimiento y la resiliencia operativa.
 * **Adaptabilidad y Resiliencia:** Rápida adaptación a nuevas tecnologías y frameworks, con experiencia probada en gestionar situaciones de alta presión en producción ("cuando todo arde").
