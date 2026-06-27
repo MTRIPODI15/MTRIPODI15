@@ -29,7 +29,7 @@ Trabajo como SDET Jr | QA Hibrido con casi una década de experiencia en SDLC, p
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-5384D1?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 
 ## 📁 Explora mis Repositorios
