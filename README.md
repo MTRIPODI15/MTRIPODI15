@@ -13,7 +13,7 @@ Trabajo como SDET Jr | QA Hibrido con casi una década de experiencia en SDLC, p
 * **Visión 360°:** Mi experiencia en backend, Analisis y QA me permite entender los sistemas de punta a punta, anticipando problemas y diseñando soluciones que funcionan en el mundo real.
 * **Automatización Estratégica:** Transformo procesos de prueba manuales en flujos automatizados robustos (sobre todo Python, Playwright) que aceleran la entrega sin comprometer la calidad, especialmente en entornos regulados.
 * **Cultura de CI/CD:** Contribuyo activamente a la implementación y mejora de pipelines (GitHub Actions, Jenkins) para despliegues seguros y eficientes, garantizando la continuidad del negocio.
-* **Adaptabilidad y Resiliencia:** Rápida adaptación a nuevas tecnologías y frameworks, con experiencia probada en gestionar situaciones de alta presión en producción.
+* **Adaptabilidad y Resiliencia:** Rápida adaptación a nuevas tecnologías y frameworks, con experiencia probada en gestionar situaciones de alta presión en producción. Tengo experiencia en proyectos con Metodologias Agiles como Scrum o Kanban, asi como Tradicionales de tipo Cascada. Manejo bien BDD/Gherkin, mi documentacion es clara y no tengo problema en utilizar diagramas para facilitar la comprension.
 
 ## 🛠️ Mi Stack Tecnológico
 
@@ -22,7 +22,6 @@ Trabajo como SDET Jr | QA Hibrido con casi una década de experiencia en SDLC, p
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,8 +30,6 @@ Trabajo como SDET Jr | QA Hibrido con casi una década de experiencia en SDLC, p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-5384D1?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ## 📁 Explora mis Repositorios
