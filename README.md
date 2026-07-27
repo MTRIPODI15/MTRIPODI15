@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png"/ width="400">
+  <img src="Portada.png"/ width="400">
 </p>
 
 # ¡Hola! Soy Matías Tripodi 👋
