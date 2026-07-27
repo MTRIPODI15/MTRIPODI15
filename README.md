@@ -1,4 +1,4 @@
-# ¡Hola!
+# <p align="center">¡Hola!</p>
 # Mi nombre es Matías Tripodi y me dedico mejorar la calidad
 # Me desempeño en roles como QA Engineer, Analista y BA con especializacion en productos financieros.
 <p align="center">
