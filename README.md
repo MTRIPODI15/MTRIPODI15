@@ -1,8 +1,9 @@
+# ¡Hola! Mi nombre es Matías Tripodi
 <p align="center">
   <img src="Portada.png"/ width="400">
 </p>
 
-# ¡Hola! Soy Matías Tripodi 👋
+
 
 Trabajo como SDET Jr | QA Hibrido con casi una década de experiencia en SDLC, pasando por roles como Analista Funcional/BA,  SR. QA Manual, SSR. QA Automation con conocimientos en CI/CD. Durante mi carrera en este mundo recorri varios roles por lo general en negocios criticos donde los estandares de calidad deben ser altos ya sea por normativas como riesgo de perdida financiera a gran escala o daño de imagen.
 
