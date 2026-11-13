@@ -28,7 +28,7 @@ What I do
 | Project | What it shows | Stack |
 |---|---|---|
 | [**manual_test_case**](https://github.com/MTRIPODI15/manual_test_case) | Analysis of a fund-transfer flow in a demo bank: risk-based plan, test cases and defects with evidence. | Requirements analysis , Risk , Test design |
-| [**booker-api-testing**]((https://github.com/MTRIPODI15/api_test.git) | REST API validation: E2E flow, negative cases, Newman running in CI on every push. | Postman , Newman , GitHub Actions |
+| [**api-testing**](https://github.com/MTRIPODI15/api_test.git) | REST API validation: E2E flow, negative cases, Newman running in CI on every push. | Postman , Newman , GitHub Actions |
 | [**automation_suite**](https://github.com/MTRIPODI15/automation_suite) | Business scenarios written in Gherkin (BDD) and automated, with Page Object Model and cross-browser CI. | Gherkin , Python , Playwright , pytest-bdd |
 
 ---
