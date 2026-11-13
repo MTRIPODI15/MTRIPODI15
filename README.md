@@ -1,6 +1,6 @@
 # <p align="center">Hi, I'm Matias Tripodi</p>
 
-**Functional Analyst & QA | Banking & Fintech | Requirements, UAT & Business Data Analysis**
+### <p align="center">Functional Analyst & QA | Banking & Fintech | Requirements, UAT & Business Data Analysis</p>
 
 I bridge business and technology in banking. 10 years on banking systems: JD Edwards technical consulting, 6 years running core banking production operations, and since 2022, gathering requirements, validating developments and leading UAT as a QA Analyst. Banking Administration Technician.
 
@@ -35,9 +35,12 @@ What I do
 
 ## Tools
 
-**Analysis:** requirements gathering | acceptance criteria | Gherkin | UML | UAT
+**Analysis:** requirements gathering | acceptance criteria | Gherkin | UML | UAT | AS-IS | TO-BE |
+
 **Data:** SQL | JSON | XML
+
 **Testing:** Postman | Newman | Python | Playwright | pytest
+
 **Workflow:** Jira | Git | GitHub Actions | Unix / SSH | Scrum | Kanban
 
 ## Languages
